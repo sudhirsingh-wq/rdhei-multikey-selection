@@ -1,0 +1,73 @@
+sigma,method,image,ok,net_bpp
+0,Rule-it + RS,jetplane,True,0.0306396484375
+0,Rule-it + RS,boat,True,0.0306396484375
+0,Rule-it + RS,barbara,True,0.0306396484375
+0,Rule-it + RS,pepper,True,0.0306396484375
+0,Rule-it + RS,baboon,True,0.0306396484375
+0,Rule-it + RS,pirate,True,0.0306396484375
+0,HGB-it + RS,jetplane,True,0.0306396484375
+0,HGB-it + RS,boat,True,0.0306396484375
+0,HGB-it + RS,barbara,True,0.0306396484375
+0,HGB-it + RS,pepper,True,0.0306396484375
+0,HGB-it + RS,baboon,True,0.0306396484375
+0,HGB-it + RS,pirate,True,0.0306396484375
+0,HGB-it + RS + erasures,jetplane,True,0.0306396484375
+0,HGB-it + RS + erasures,boat,True,0.0306396484375
+0,HGB-it + RS + erasures,barbara,True,0.0306396484375
+0,HGB-it + RS + erasures,pepper,True,0.0306396484375
+0,HGB-it + RS + erasures,baboon,True,0.0306396484375
+0,HGB-it + RS + erasures,pirate,True,0.0306396484375
+30,Rule-it + RS,jetplane,True,0.0306396484375
+30,Rule-it + RS,boat,True,0.0306396484375
+30,Rule-it + RS,barbara,True,0.0306396484375
+30,Rule-it + RS,pepper,True,0.0306396484375
+30,Rule-it + RS,baboon,True,0.0306396484375
+30,Rule-it + RS,pirate,True,0.0306396484375
+30,HGB-it + RS,jetplane,True,0.0306396484375
+30,HGB-it + RS,boat,True,0.0306396484375
+30,HGB-it + RS,barbara,True,0.0306396484375
+30,HGB-it + RS,pepper,True,0.0306396484375
+30,HGB-it + RS,baboon,True,0.0306396484375
+30,HGB-it + RS,pirate,True,0.0306396484375
+30,HGB-it + RS + erasures,jetplane,True,0.0306396484375
+30,HGB-it + RS + erasures,boat,True,0.0306396484375
+30,HGB-it + RS + erasures,barbara,True,0.0306396484375
+30,HGB-it + RS + erasures,pepper,True,0.0306396484375
+30,HGB-it + RS + erasures,baboon,True,0.0306396484375
+30,HGB-it + RS + erasures,pirate,True,0.0306396484375
+45,Rule-it + RS,jetplane,True,0.0294189453125
+45,Rule-it + RS,boat,True,0.02728271484375
+45,Rule-it + RS,barbara,True,0.02728271484375
+45,Rule-it + RS,pepper,True,0.0294189453125
+45,Rule-it + RS,baboon,True,0.02362060546875
+45,Rule-it + RS,pirate,True,0.02728271484375
+45,HGB-it + RS,jetplane,True,0.0306396484375
+45,HGB-it + RS,boat,True,0.0306396484375
+45,HGB-it + RS,barbara,True,0.0306396484375
+45,HGB-it + RS,pepper,True,0.0306396484375
+45,HGB-it + RS,baboon,True,0.0306396484375
+45,HGB-it + RS,pirate,True,0.0306396484375
+45,HGB-it + RS + erasures,jetplane,True,0.0306396484375
+45,HGB-it + RS + erasures,boat,True,0.0306396484375
+45,HGB-it + RS + erasures,barbara,True,0.0294189453125
+45,HGB-it + RS + erasures,pepper,True,0.0306396484375
+45,HGB-it + RS + erasures,baboon,True,0.0306396484375
+45,HGB-it + RS + erasures,pirate,True,0.0306396484375
+60,Rule-it + RS,jetplane,False,0.0
+60,Rule-it + RS,boat,False,0.0
+60,Rule-it + RS,barbara,False,0.0
+60,Rule-it + RS,pepper,False,0.0
+60,Rule-it + RS,baboon,False,0.0
+60,Rule-it + RS,pirate,False,0.0
+60,HGB-it + RS,jetplane,True,0.02728271484375
+60,HGB-it + RS,boat,True,0.02362060546875
+60,HGB-it + RS,barbara,True,0.02362060546875
+60,HGB-it + RS,pepper,True,0.02728271484375
+60,HGB-it + RS,baboon,True,0.0196533203125
+60,HGB-it + RS,pirate,True,0.02362060546875
+60,HGB-it + RS + erasures,jetplane,True,0.02728271484375
+60,HGB-it + RS + erasures,boat,True,0.02362060546875
+60,HGB-it + RS + erasures,barbara,True,0.02362060546875
+60,HGB-it + RS + erasures,pepper,True,0.02728271484375
+60,HGB-it + RS + erasures,baboon,True,0.01568603515625
+60,HGB-it + RS + erasures,pirate,True,0.02362060546875

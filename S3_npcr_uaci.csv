@@ -1,0 +1,7 @@
+Mode,Test,NPCR_pct,UACI_pct
+rc4fixed,1-bit change in key K1,25.0,8.482692942899819
+rc4fixed,1-bit change in plaintext,0.0003814697265625,1.495959712009804e-06
+rc4fixed,1-bit change in message,0.0240325927734375,0.006353340896905636
+aesctr,1-bit change in key K1,24.904251098632812,8.418565637925091
+aesctr,1-bit change in plaintext,0.0003814697265625,1.495959712009804e-06
+aesctr,1-bit change in message,0.0244140625,0.007578531901041667

@@ -1,0 +1,10 @@
+image,source,file_sha256,grey512_sha256,grey_levels,energy_above_quarter_band_pct
+jetplane,"standard-test-images repository (commit e14c591), jetplane.tif (USC-SIPI 4.2.05, grey)",4f81512cde02c872aad5c46b6d323cacf7e3179f381cf03eaf0342520eb035ec,67ad5b68a7348a20252e35bc857ec80e4a70dcdd682bb7be3eac3acb3057f246,217,0.74
+boat,"standard-test-images repository (commit e14c591), boat.png (identical to Set12 boat)",18bea4de1634456f5791d16301863fc974401d144cd6afb86f09a6be4620fe54,b292548c463580074f3032fdecf2c1873114b797d0827a1e52e9ef37c99989f7,255,2.3
+barbara,"Set12 benchmark (KAIR repository, commit fc1732f), testsets/set12/09.png",764b8a2748cc7ad381cccc047c5e512cb528c197ba86adb83aa339e8932e66c0,79f36e2eeecf465a6e14b7c547969bb8c3bf5ab8e832205b95ba040fe012e927,234,5.95
+pepper,"standard-test-images repository (commit e14c591), peppers.png (USC-SIPI 4.2.07, colour; converted to grey)",46d363d6bd5406bf6f68d16a5c6c803f5efb72802e505130444ead02533f0d5b,b353a2b1d8903686b095fd65f534d186415a71021c5eb6a292b915e52bf2aa86,229,1.35
+woman,"standard-test-images repository (commit e14c591), woman_blonde.tif",ff48b11d255d799342822bc6f758658fcefa3fa0c1b980c187fe28727ce785b7,dfb0b54ed2eccd0e0384b1f305948ad81dc0d84d197e7d0fa624707aa2cbedb5,203,3.78
+baboon,"standard-test-images repository (commit e14c591), baboon.png (USC-SIPI 4.2.03 Mandrill, colour; converted to grey)",22527c45019e6f5ea028dd70ced0c808fb4e402dcdf75d4682236377414af702,6716e7418c6d8393c355e52a5ebe7447068e49f05afe2b230c4cb91fbdb5b479,226,13.31
+walkbridge,"standard-test-images repository (commit e14c591), walkbridge.tif",76d8a8133656ba5850ea5cd74c81c604b5fe4b6401f55837bbd54b758fc86c23,6380ee8dc0d5aeadfb76375c5927fa3d6bab095c88720905709b68f3e2208a60,256,3.36
+pirate,"standard-test-images repository (commit e14c591), pirate.tif",2a9cb66cd4eaf51426b32d31aa84d695ae9be42bbff7222f9aa7275ef271c002,244741210764fad34e93175907ca28f3706bad9660448da30e1e51d56515bf30,203,1.75
+lake,"standard-test-images repository (commit e14c591), lake.tif",83d4bd2ae840f52cb54529d982c9a9d1e3e8c97370a26b10715f2b03ddfeb61f,f2a6b3bf7878c797585fb43f258b64c76438d2dac26661d1ad8990847beb95b1,240,0.98

@@ -1,0 +1,33 @@
+Clf,group,images,bit_errors,BER,lossless_runs
+KNN,texture,3,4,8.138020833333333e-05,4/6
+DT,texture,3,108,0.002197265625,0/6
+RF-10+AFW,texture,3,0,0.0,6/6
+RF-11+ctx,texture,3,0,0.0,6/6
+RF-10+AFW noise-aug,texture,3,5,0.00010172526041666667,3/6
+RF-11+ctx noise-aug,texture,3,11,0.00022379557291666666,3/6
+Rule-TV (no ML),texture,3,0,0.0,6/6
+Rule-ctx (no ML),texture,3,0,0.0,6/6
+KNN,medical,5,0,0.0,10/10
+DT,medical,5,97,0.00118408203125,2/10
+RF-10+AFW,medical,5,0,0.0,10/10
+RF-11+ctx,medical,5,0,0.0,10/10
+RF-10+AFW noise-aug,medical,5,11,0.00013427734375,5/10
+RF-11+ctx noise-aug,medical,5,6,7.32421875e-05,7/10
+Rule-TV (no ML),medical,5,0,0.0,10/10
+Rule-ctx (no ML),medical,5,0,0.0,10/10
+KNN,astronomy,2,0,0.0,4/4
+DT,astronomy,2,23,0.000701904296875,0/4
+RF-10+AFW,astronomy,2,0,0.0,4/4
+RF-11+ctx,astronomy,2,0,0.0,4/4
+RF-10+AFW noise-aug,astronomy,2,4,0.0001220703125,3/4
+RF-11+ctx noise-aug,astronomy,2,6,0.00018310546875,2/4
+Rule-TV (no ML),astronomy,2,0,0.0,4/4
+Rule-ctx (no ML),astronomy,2,0,0.0,4/4
+KNN,kodak,24,427,0.0010859171549479167,17/48
+DT,kodak,24,2244,0.005706787109375,0/48
+RF-10+AFW,kodak,24,0,0.0,48/48
+RF-11+ctx,kodak,24,0,0.0,48/48
+RF-10+AFW noise-aug,kodak,24,114,0.0002899169921875,23/48
+RF-11+ctx noise-aug,kodak,24,113,0.0002873738606770833,24/48
+Rule-TV (no ML),kodak,24,0,0.0,48/48
+Rule-ctx (no ML),kodak,24,6,1.52587890625e-05,44/48

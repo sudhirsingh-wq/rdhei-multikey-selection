@@ -1,0 +1,451 @@
+Image,Seed,Clf,bit_errors,total_bits,block_errors,MSE
+jetplane,0,KNN,0,8192,0,0.0
+jetplane,0,DT,11,8192,11,19.273868560791016
+jetplane,0,RF-6,0,8192,0,0.0
+jetplane,0,RF-10,0,8192,0,0.0
+jetplane,0,RF-10+AFW,0,8192,0,0.0
+jetplane,0,RF-11+ctx,0,8192,0,0.0
+jetplane,0,RF-10+AFW noise-aug,0,8192,0,0.0
+jetplane,0,RF-11+ctx noise-aug,0,8192,0,0.0
+jetplane,0,Rule-TV (no ML),0,8192,0,0.0
+jetplane,0,Rule-ctx (no ML),0,8192,0,0.0
+jetplane,1,KNN,0,8192,0,0.0
+jetplane,1,DT,4,8192,4,3.5666351318359375
+jetplane,1,RF-6,0,8192,0,0.0
+jetplane,1,RF-10,0,8192,0,0.0
+jetplane,1,RF-10+AFW,0,8192,0,0.0
+jetplane,1,RF-11+ctx,0,8192,0,0.0
+jetplane,1,RF-10+AFW noise-aug,3,8192,3,2.7017478942871094
+jetplane,1,RF-11+ctx noise-aug,2,8192,2,1.6929092407226562
+jetplane,1,Rule-TV (no ML),0,8192,0,0.0
+jetplane,1,Rule-ctx (no ML),0,8192,0,0.0
+jetplane,2,KNN,0,8192,0,0.0
+jetplane,2,DT,0,8192,0,0.0
+jetplane,2,RF-6,0,8192,0,0.0
+jetplane,2,RF-10,0,8192,0,0.0
+jetplane,2,RF-10+AFW,0,8192,0,0.0
+jetplane,2,RF-11+ctx,0,8192,0,0.0
+jetplane,2,RF-10+AFW noise-aug,0,8192,0,0.0
+jetplane,2,RF-11+ctx noise-aug,0,8192,0,0.0
+jetplane,2,Rule-TV (no ML),0,8192,0,0.0
+jetplane,2,Rule-ctx (no ML),0,8192,0,0.0
+jetplane,3,KNN,0,8192,0,0.0
+jetplane,3,DT,0,8192,0,0.0
+jetplane,3,RF-6,0,8192,0,0.0
+jetplane,3,RF-10,0,8192,0,0.0
+jetplane,3,RF-10+AFW,0,8192,0,0.0
+jetplane,3,RF-11+ctx,0,8192,0,0.0
+jetplane,3,RF-10+AFW noise-aug,0,8192,0,0.0
+jetplane,3,RF-11+ctx noise-aug,0,8192,0,0.0
+jetplane,3,Rule-TV (no ML),0,8192,0,0.0
+jetplane,3,Rule-ctx (no ML),0,8192,0,0.0
+jetplane,4,KNN,0,8192,0,0.0
+jetplane,4,DT,0,8192,0,0.0
+jetplane,4,RF-6,0,8192,0,0.0
+jetplane,4,RF-10,0,8192,0,0.0
+jetplane,4,RF-10+AFW,0,8192,0,0.0
+jetplane,4,RF-11+ctx,0,8192,0,0.0
+jetplane,4,RF-10+AFW noise-aug,0,8192,0,0.0
+jetplane,4,RF-11+ctx noise-aug,0,8192,0,0.0
+jetplane,4,Rule-TV (no ML),0,8192,0,0.0
+jetplane,4,Rule-ctx (no ML),0,8192,0,0.0
+boat,0,KNN,2,8192,2,4.798667907714844
+boat,0,DT,41,8192,40,68.97355270385742
+boat,0,RF-6,0,8192,0,0.0
+boat,0,RF-10,0,8192,0,0.0
+boat,0,RF-10+AFW,0,8192,0,0.0
+boat,0,RF-11+ctx,0,8192,0,0.0
+boat,0,RF-10+AFW noise-aug,0,8192,0,0.0
+boat,0,RF-11+ctx noise-aug,0,8192,0,0.0
+boat,0,Rule-TV (no ML),0,8192,0,0.0
+boat,0,Rule-ctx (no ML),0,8192,0,0.0
+boat,1,KNN,0,8192,0,0.0
+boat,1,DT,5,8192,4,4.974239349365234
+boat,1,RF-6,0,8192,0,0.0
+boat,1,RF-10,0,8192,0,0.0
+boat,1,RF-10+AFW,0,8192,0,0.0
+boat,1,RF-11+ctx,0,8192,0,0.0
+boat,1,RF-10+AFW noise-aug,1,8192,1,0.9236946105957031
+boat,1,RF-11+ctx noise-aug,1,8192,1,0.9236946105957031
+boat,1,Rule-TV (no ML),0,8192,0,0.0
+boat,1,Rule-ctx (no ML),0,8192,0,0.0
+boat,2,KNN,1,8192,1,2.1898040771484375
+boat,2,DT,2,8192,2,4.943592071533203
+boat,2,RF-6,0,8192,0,0.0
+boat,2,RF-10,0,8192,0,0.0
+boat,2,RF-10+AFW,0,8192,0,0.0
+boat,2,RF-11+ctx,0,8192,0,0.0
+boat,2,RF-10+AFW noise-aug,0,8192,0,0.0
+boat,2,RF-11+ctx noise-aug,0,8192,0,0.0
+boat,2,Rule-TV (no ML),0,8192,0,0.0
+boat,2,Rule-ctx (no ML),0,8192,0,0.0
+boat,3,KNN,1,8192,1,2.0212173461914062
+boat,3,DT,3,8192,2,3.9095497131347656
+boat,3,RF-6,0,8192,0,0.0
+boat,3,RF-10,0,8192,0,0.0
+boat,3,RF-10+AFW,0,8192,0,0.0
+boat,3,RF-11+ctx,0,8192,0,0.0
+boat,3,RF-10+AFW noise-aug,0,8192,0,0.0
+boat,3,RF-11+ctx noise-aug,0,8192,0,0.0
+boat,3,Rule-TV (no ML),0,8192,0,0.0
+boat,3,Rule-ctx (no ML),0,8192,0,0.0
+boat,4,KNN,0,8192,0,0.0
+boat,4,DT,2,8192,1,1.4891738891601562
+boat,4,RF-6,0,8192,0,0.0
+boat,4,RF-10,0,8192,0,0.0
+boat,4,RF-10+AFW,0,8192,0,0.0
+boat,4,RF-11+ctx,0,8192,0,0.0
+boat,4,RF-10+AFW noise-aug,0,8192,0,0.0
+boat,4,RF-11+ctx noise-aug,0,8192,0,0.0
+boat,4,Rule-TV (no ML),0,8192,0,0.0
+boat,4,Rule-ctx (no ML),0,8192,0,0.0
+barbara,0,KNN,123,8192,91,182.5416030883789
+barbara,0,DT,89,8192,75,139.43512725830078
+barbara,0,RF-6,0,8192,0,0.0
+barbara,0,RF-10,0,8192,0,0.0
+barbara,0,RF-10+AFW,0,8192,0,0.0
+barbara,0,RF-11+ctx,0,8192,0,0.0
+barbara,0,RF-10+AFW noise-aug,0,8192,0,0.0
+barbara,0,RF-11+ctx noise-aug,0,8192,0,0.0
+barbara,0,Rule-TV (no ML),0,8192,0,0.0
+barbara,0,Rule-ctx (no ML),0,8192,0,0.0
+barbara,1,KNN,129,8192,103,196.3453254699707
+barbara,1,DT,56,8192,43,79.73625183105469
+barbara,1,RF-6,0,8192,0,0.0
+barbara,1,RF-10,0,8192,0,0.0
+barbara,1,RF-10+AFW,0,8192,0,0.0
+barbara,1,RF-11+ctx,0,8192,0,0.0
+barbara,1,RF-10+AFW noise-aug,1,8192,1,0.7806892395019531
+barbara,1,RF-11+ctx noise-aug,2,8192,2,1.6937637329101562
+barbara,1,Rule-TV (no ML),0,8192,0,0.0
+barbara,1,Rule-ctx (no ML),2,8192,2,2.4651260375976562
+barbara,2,KNN,126,8192,97,198.26993942260742
+barbara,2,DT,53,8192,42,86.62287139892578
+barbara,2,RF-6,0,8192,0,0.0
+barbara,2,RF-10,0,8192,0,0.0
+barbara,2,RF-10+AFW,0,8192,0,0.0
+barbara,2,RF-11+ctx,0,8192,0,0.0
+barbara,2,RF-10+AFW noise-aug,0,8192,0,0.0
+barbara,2,RF-11+ctx noise-aug,0,8192,0,0.0
+barbara,2,Rule-TV (no ML),2,8192,1,2.208385467529297
+barbara,2,Rule-ctx (no ML),0,8192,0,0.0
+barbara,3,KNN,139,8192,109,212.1931915283203
+barbara,3,DT,69,8192,51,98.78466796875
+barbara,3,RF-6,0,8192,0,0.0
+barbara,3,RF-10,0,8192,0,0.0
+barbara,3,RF-10+AFW,0,8192,0,0.0
+barbara,3,RF-11+ctx,0,8192,0,0.0
+barbara,3,RF-10+AFW noise-aug,0,8192,0,0.0
+barbara,3,RF-11+ctx noise-aug,0,8192,0,0.0
+barbara,3,Rule-TV (no ML),1,8192,1,2.2352142333984375
+barbara,3,Rule-ctx (no ML),1,8192,1,2.2352142333984375
+barbara,4,KNN,125,8192,88,168.92684173583984
+barbara,4,DT,54,8192,39,75.56916809082031
+barbara,4,RF-6,0,8192,0,0.0
+barbara,4,RF-10,0,8192,0,0.0
+barbara,4,RF-10+AFW,0,8192,0,0.0
+barbara,4,RF-11+ctx,0,8192,0,0.0
+barbara,4,RF-10+AFW noise-aug,0,8192,0,0.0
+barbara,4,RF-11+ctx noise-aug,0,8192,0,0.0
+barbara,4,Rule-TV (no ML),1,8192,1,2.4790115356445312
+barbara,4,Rule-ctx (no ML),0,8192,0,0.0
+pepper,0,KNN,0,8192,0,0.0
+pepper,0,DT,113,8192,113,186.8871078491211
+pepper,0,RF-6,0,8192,0,0.0
+pepper,0,RF-10,0,8192,0,0.0
+pepper,0,RF-10+AFW,0,8192,0,0.0
+pepper,0,RF-11+ctx,0,8192,0,0.0
+pepper,0,RF-10+AFW noise-aug,0,8192,0,0.0
+pepper,0,RF-11+ctx noise-aug,0,8192,0,0.0
+pepper,0,Rule-TV (no ML),0,8192,0,0.0
+pepper,0,Rule-ctx (no ML),0,8192,0,0.0
+pepper,1,KNN,0,8192,0,0.0
+pepper,1,DT,9,8192,9,8.477313995361328
+pepper,1,RF-6,0,8192,0,0.0
+pepper,1,RF-10,0,8192,0,0.0
+pepper,1,RF-10+AFW,0,8192,0,0.0
+pepper,1,RF-11+ctx,0,8192,0,0.0
+pepper,1,RF-10+AFW noise-aug,3,8192,3,2.8059959411621094
+pepper,1,RF-11+ctx noise-aug,7,8192,7,6.104564666748047
+pepper,1,Rule-TV (no ML),0,8192,0,0.0
+pepper,1,Rule-ctx (no ML),0,8192,0,0.0
+pepper,2,KNN,0,8192,0,0.0
+pepper,2,DT,0,8192,0,0.0
+pepper,2,RF-6,0,8192,0,0.0
+pepper,2,RF-10,0,8192,0,0.0
+pepper,2,RF-10+AFW,0,8192,0,0.0
+pepper,2,RF-11+ctx,0,8192,0,0.0
+pepper,2,RF-10+AFW noise-aug,0,8192,0,0.0
+pepper,2,RF-11+ctx noise-aug,0,8192,0,0.0
+pepper,2,Rule-TV (no ML),0,8192,0,0.0
+pepper,2,Rule-ctx (no ML),0,8192,0,0.0
+pepper,3,KNN,0,8192,0,0.0
+pepper,3,DT,0,8192,0,0.0
+pepper,3,RF-6,0,8192,0,0.0
+pepper,3,RF-10,0,8192,0,0.0
+pepper,3,RF-10+AFW,0,8192,0,0.0
+pepper,3,RF-11+ctx,0,8192,0,0.0
+pepper,3,RF-10+AFW noise-aug,0,8192,0,0.0
+pepper,3,RF-11+ctx noise-aug,0,8192,0,0.0
+pepper,3,Rule-TV (no ML),0,8192,0,0.0
+pepper,3,Rule-ctx (no ML),0,8192,0,0.0
+pepper,4,KNN,0,8192,0,0.0
+pepper,4,DT,0,8192,0,0.0
+pepper,4,RF-6,0,8192,0,0.0
+pepper,4,RF-10,0,8192,0,0.0
+pepper,4,RF-10+AFW,0,8192,0,0.0
+pepper,4,RF-11+ctx,0,8192,0,0.0
+pepper,4,RF-10+AFW noise-aug,0,8192,0,0.0
+pepper,4,RF-11+ctx noise-aug,0,8192,0,0.0
+pepper,4,Rule-TV (no ML),0,8192,0,0.0
+pepper,4,Rule-ctx (no ML),0,8192,0,0.0
+woman,0,KNN,0,8192,0,0.0
+woman,0,DT,141,8192,141,238.29799270629883
+woman,0,RF-6,0,8192,0,0.0
+woman,0,RF-10,0,8192,0,0.0
+woman,0,RF-10+AFW,0,8192,0,0.0
+woman,0,RF-11+ctx,0,8192,0,0.0
+woman,0,RF-10+AFW noise-aug,0,8192,0,0.0
+woman,0,RF-11+ctx noise-aug,0,8192,0,0.0
+woman,0,Rule-TV (no ML),0,8192,0,0.0
+woman,0,Rule-ctx (no ML),0,8192,0,0.0
+woman,1,KNN,0,8192,0,0.0
+woman,1,DT,9,8192,9,8.116504669189453
+woman,1,RF-6,0,8192,0,0.0
+woman,1,RF-10,0,8192,0,0.0
+woman,1,RF-10+AFW,0,8192,0,0.0
+woman,1,RF-11+ctx,0,8192,0,0.0
+woman,1,RF-10+AFW noise-aug,5,8192,5,4.709323883056641
+woman,1,RF-11+ctx noise-aug,5,8192,5,4.705478668212891
+woman,1,Rule-TV (no ML),0,8192,0,0.0
+woman,1,Rule-ctx (no ML),0,8192,0,0.0
+woman,2,KNN,0,8192,0,0.0
+woman,2,DT,0,8192,0,0.0
+woman,2,RF-6,0,8192,0,0.0
+woman,2,RF-10,0,8192,0,0.0
+woman,2,RF-10+AFW,0,8192,0,0.0
+woman,2,RF-11+ctx,0,8192,0,0.0
+woman,2,RF-10+AFW noise-aug,0,8192,0,0.0
+woman,2,RF-11+ctx noise-aug,0,8192,0,0.0
+woman,2,Rule-TV (no ML),0,8192,0,0.0
+woman,2,Rule-ctx (no ML),0,8192,0,0.0
+woman,3,KNN,0,8192,0,0.0
+woman,3,DT,3,8192,2,3.810314178466797
+woman,3,RF-6,0,8192,0,0.0
+woman,3,RF-10,0,8192,0,0.0
+woman,3,RF-10+AFW,0,8192,0,0.0
+woman,3,RF-11+ctx,0,8192,0,0.0
+woman,3,RF-10+AFW noise-aug,0,8192,0,0.0
+woman,3,RF-11+ctx noise-aug,0,8192,0,0.0
+woman,3,Rule-TV (no ML),0,8192,0,0.0
+woman,3,Rule-ctx (no ML),0,8192,0,0.0
+woman,4,KNN,0,8192,0,0.0
+woman,4,DT,0,8192,0,0.0
+woman,4,RF-6,0,8192,0,0.0
+woman,4,RF-10,0,8192,0,0.0
+woman,4,RF-10+AFW,0,8192,0,0.0
+woman,4,RF-11+ctx,0,8192,0,0.0
+woman,4,RF-10+AFW noise-aug,0,8192,0,0.0
+woman,4,RF-11+ctx noise-aug,0,8192,0,0.0
+woman,4,Rule-TV (no ML),0,8192,0,0.0
+woman,4,Rule-ctx (no ML),0,8192,0,0.0
+baboon,0,KNN,0,8192,0,0.0
+baboon,0,DT,31,8192,29,49.57911682128906
+baboon,0,RF-6,0,8192,0,0.0
+baboon,0,RF-10,0,8192,0,0.0
+baboon,0,RF-10+AFW,0,8192,0,0.0
+baboon,0,RF-11+ctx,0,8192,0,0.0
+baboon,0,RF-10+AFW noise-aug,0,8192,0,0.0
+baboon,0,RF-11+ctx noise-aug,0,8192,0,0.0
+baboon,0,Rule-TV (no ML),0,8192,0,0.0
+baboon,0,Rule-ctx (no ML),0,8192,0,0.0
+baboon,1,KNN,0,8192,0,0.0
+baboon,1,DT,16,8192,13,17.85595703125
+baboon,1,RF-6,0,8192,0,0.0
+baboon,1,RF-10,0,8192,0,0.0
+baboon,1,RF-10+AFW,0,8192,0,0.0
+baboon,1,RF-11+ctx,0,8192,0,0.0
+baboon,1,RF-10+AFW noise-aug,1,8192,1,0.9207954406738281
+baboon,1,RF-11+ctx noise-aug,1,8192,1,0.9207954406738281
+baboon,1,Rule-TV (no ML),0,8192,0,0.0
+baboon,1,Rule-ctx (no ML),0,8192,0,0.0
+baboon,2,KNN,0,8192,0,0.0
+baboon,2,DT,12,8192,9,17.099262237548828
+baboon,2,RF-6,0,8192,0,0.0
+baboon,2,RF-10,0,8192,0,0.0
+baboon,2,RF-10+AFW,0,8192,0,0.0
+baboon,2,RF-11+ctx,0,8192,0,0.0
+baboon,2,RF-10+AFW noise-aug,0,8192,0,0.0
+baboon,2,RF-11+ctx noise-aug,0,8192,0,0.0
+baboon,2,Rule-TV (no ML),0,8192,0,0.0
+baboon,2,Rule-ctx (no ML),0,8192,0,0.0
+baboon,3,KNN,0,8192,0,0.0
+baboon,3,DT,13,8192,11,19.73404312133789
+baboon,3,RF-6,0,8192,0,0.0
+baboon,3,RF-10,0,8192,0,0.0
+baboon,3,RF-10+AFW,0,8192,0,0.0
+baboon,3,RF-11+ctx,0,8192,0,0.0
+baboon,3,RF-10+AFW noise-aug,0,8192,0,0.0
+baboon,3,RF-11+ctx noise-aug,0,8192,0,0.0
+baboon,3,Rule-TV (no ML),0,8192,0,0.0
+baboon,3,Rule-ctx (no ML),0,8192,0,0.0
+baboon,4,KNN,0,8192,0,0.0
+baboon,4,DT,12,8192,9,16.087512969970703
+baboon,4,RF-6,0,8192,0,0.0
+baboon,4,RF-10,0,8192,0,0.0
+baboon,4,RF-10+AFW,0,8192,0,0.0
+baboon,4,RF-11+ctx,0,8192,0,0.0
+baboon,4,RF-10+AFW noise-aug,0,8192,0,0.0
+baboon,4,RF-11+ctx noise-aug,0,8192,0,0.0
+baboon,4,Rule-TV (no ML),0,8192,0,0.0
+baboon,4,Rule-ctx (no ML),0,8192,0,0.0
+walkbridge,0,KNN,0,8192,0,0.0
+walkbridge,0,DT,22,8192,22,38.968894958496094
+walkbridge,0,RF-6,0,8192,0,0.0
+walkbridge,0,RF-10,0,8192,0,0.0
+walkbridge,0,RF-10+AFW,0,8192,0,0.0
+walkbridge,0,RF-11+ctx,0,8192,0,0.0
+walkbridge,0,RF-10+AFW noise-aug,0,8192,0,0.0
+walkbridge,0,RF-11+ctx noise-aug,0,8192,0,0.0
+walkbridge,0,Rule-TV (no ML),0,8192,0,0.0
+walkbridge,0,Rule-ctx (no ML),0,8192,0,0.0
+walkbridge,1,KNN,0,8192,0,0.0
+walkbridge,1,DT,9,8192,9,9.730106353759766
+walkbridge,1,RF-6,0,8192,0,0.0
+walkbridge,1,RF-10,0,8192,0,0.0
+walkbridge,1,RF-10+AFW,0,8192,0,0.0
+walkbridge,1,RF-11+ctx,0,8192,0,0.0
+walkbridge,1,RF-10+AFW noise-aug,6,8192,6,5.881950378417969
+walkbridge,1,RF-11+ctx noise-aug,3,8192,3,2.8664817810058594
+walkbridge,1,Rule-TV (no ML),0,8192,0,0.0
+walkbridge,1,Rule-ctx (no ML),0,8192,0,0.0
+walkbridge,2,KNN,0,8192,0,0.0
+walkbridge,2,DT,4,8192,4,9.697193145751953
+walkbridge,2,RF-6,0,8192,0,0.0
+walkbridge,2,RF-10,0,8192,0,0.0
+walkbridge,2,RF-10+AFW,0,8192,0,0.0
+walkbridge,2,RF-11+ctx,0,8192,0,0.0
+walkbridge,2,RF-10+AFW noise-aug,0,8192,0,0.0
+walkbridge,2,RF-11+ctx noise-aug,0,8192,0,0.0
+walkbridge,2,Rule-TV (no ML),0,8192,0,0.0
+walkbridge,2,Rule-ctx (no ML),0,8192,0,0.0
+walkbridge,3,KNN,0,8192,0,0.0
+walkbridge,3,DT,1,8192,1,2.0909996032714844
+walkbridge,3,RF-6,0,8192,0,0.0
+walkbridge,3,RF-10,0,8192,0,0.0
+walkbridge,3,RF-10+AFW,0,8192,0,0.0
+walkbridge,3,RF-11+ctx,0,8192,0,0.0
+walkbridge,3,RF-10+AFW noise-aug,0,8192,0,0.0
+walkbridge,3,RF-11+ctx noise-aug,0,8192,0,0.0
+walkbridge,3,Rule-TV (no ML),0,8192,0,0.0
+walkbridge,3,Rule-ctx (no ML),0,8192,0,0.0
+walkbridge,4,KNN,0,8192,0,0.0
+walkbridge,4,DT,4,8192,3,5.083404541015625
+walkbridge,4,RF-6,0,8192,0,0.0
+walkbridge,4,RF-10,0,8192,0,0.0
+walkbridge,4,RF-10+AFW,0,8192,0,0.0
+walkbridge,4,RF-11+ctx,0,8192,0,0.0
+walkbridge,4,RF-10+AFW noise-aug,0,8192,0,0.0
+walkbridge,4,RF-11+ctx noise-aug,0,8192,0,0.0
+walkbridge,4,Rule-TV (no ML),0,8192,0,0.0
+walkbridge,4,Rule-ctx (no ML),0,8192,0,0.0
+pirate,0,KNN,0,8192,0,0.0
+pirate,0,DT,79,8192,79,131.39888763427734
+pirate,0,RF-6,0,8192,0,0.0
+pirate,0,RF-10,0,8192,0,0.0
+pirate,0,RF-10+AFW,0,8192,0,0.0
+pirate,0,RF-11+ctx,0,8192,0,0.0
+pirate,0,RF-10+AFW noise-aug,0,8192,0,0.0
+pirate,0,RF-11+ctx noise-aug,0,8192,0,0.0
+pirate,0,Rule-TV (no ML),0,8192,0,0.0
+pirate,0,Rule-ctx (no ML),0,8192,0,0.0
+pirate,1,KNN,0,8192,0,0.0
+pirate,1,DT,9,8192,8,8.55270004272461
+pirate,1,RF-6,0,8192,0,0.0
+pirate,1,RF-10,0,8192,0,0.0
+pirate,1,RF-10+AFW,0,8192,0,0.0
+pirate,1,RF-11+ctx,0,8192,0,0.0
+pirate,1,RF-10+AFW noise-aug,4,8192,4,3.4885101318359375
+pirate,1,RF-11+ctx noise-aug,4,8192,4,3.5412139892578125
+pirate,1,Rule-TV (no ML),0,8192,0,0.0
+pirate,1,Rule-ctx (no ML),0,8192,0,0.0
+pirate,2,KNN,0,8192,0,0.0
+pirate,2,DT,0,8192,0,0.0
+pirate,2,RF-6,0,8192,0,0.0
+pirate,2,RF-10,0,8192,0,0.0
+pirate,2,RF-10+AFW,0,8192,0,0.0
+pirate,2,RF-11+ctx,0,8192,0,0.0
+pirate,2,RF-10+AFW noise-aug,0,8192,0,0.0
+pirate,2,RF-11+ctx noise-aug,0,8192,0,0.0
+pirate,2,Rule-TV (no ML),0,8192,0,0.0
+pirate,2,Rule-ctx (no ML),0,8192,0,0.0
+pirate,3,KNN,0,8192,0,0.0
+pirate,3,DT,1,8192,1,2.2367019653320312
+pirate,3,RF-6,0,8192,0,0.0
+pirate,3,RF-10,0,8192,0,0.0
+pirate,3,RF-10+AFW,0,8192,0,0.0
+pirate,3,RF-11+ctx,0,8192,0,0.0
+pirate,3,RF-10+AFW noise-aug,0,8192,0,0.0
+pirate,3,RF-11+ctx noise-aug,0,8192,0,0.0
+pirate,3,Rule-TV (no ML),0,8192,0,0.0
+pirate,3,Rule-ctx (no ML),0,8192,0,0.0
+pirate,4,KNN,0,8192,0,0.0
+pirate,4,DT,0,8192,0,0.0
+pirate,4,RF-6,0,8192,0,0.0
+pirate,4,RF-10,0,8192,0,0.0
+pirate,4,RF-10+AFW,0,8192,0,0.0
+pirate,4,RF-11+ctx,0,8192,0,0.0
+pirate,4,RF-10+AFW noise-aug,0,8192,0,0.0
+pirate,4,RF-11+ctx noise-aug,0,8192,0,0.0
+pirate,4,Rule-TV (no ML),0,8192,0,0.0
+pirate,4,Rule-ctx (no ML),0,8192,0,0.0
+lake,0,KNN,0,8192,0,0.0
+lake,0,DT,42,8192,42,74.55353546142578
+lake,0,RF-6,0,8192,0,0.0
+lake,0,RF-10,0,8192,0,0.0
+lake,0,RF-10+AFW,0,8192,0,0.0
+lake,0,RF-11+ctx,0,8192,0,0.0
+lake,0,RF-10+AFW noise-aug,0,8192,0,0.0
+lake,0,RF-11+ctx noise-aug,0,8192,0,0.0
+lake,0,Rule-TV (no ML),0,8192,0,0.0
+lake,0,Rule-ctx (no ML),0,8192,0,0.0
+lake,1,KNN,0,8192,0,0.0
+lake,1,DT,3,8192,3,3.3977317810058594
+lake,1,RF-6,0,8192,0,0.0
+lake,1,RF-10,0,8192,0,0.0
+lake,1,RF-10+AFW,0,8192,0,0.0
+lake,1,RF-11+ctx,0,8192,0,0.0
+lake,1,RF-10+AFW noise-aug,0,8192,0,0.0
+lake,1,RF-11+ctx noise-aug,1,8192,1,1.0510139465332031
+lake,1,Rule-TV (no ML),0,8192,0,0.0
+lake,1,Rule-ctx (no ML),0,8192,0,0.0
+lake,2,KNN,0,8192,0,0.0
+lake,2,DT,2,8192,1,2.0213966369628906
+lake,2,RF-6,0,8192,0,0.0
+lake,2,RF-10,0,8192,0,0.0
+lake,2,RF-10+AFW,0,8192,0,0.0
+lake,2,RF-11+ctx,0,8192,0,0.0
+lake,2,RF-10+AFW noise-aug,0,8192,0,0.0
+lake,2,RF-11+ctx noise-aug,0,8192,0,0.0
+lake,2,Rule-TV (no ML),0,8192,0,0.0
+lake,2,Rule-ctx (no ML),0,8192,0,0.0
+lake,3,KNN,0,8192,0,0.0
+lake,3,DT,4,8192,2,3.7802734375
+lake,3,RF-6,0,8192,0,0.0
+lake,3,RF-10,0,8192,0,0.0
+lake,3,RF-10+AFW,0,8192,0,0.0
+lake,3,RF-11+ctx,0,8192,0,0.0
+lake,3,RF-10+AFW noise-aug,0,8192,0,0.0
+lake,3,RF-11+ctx noise-aug,0,8192,0,0.0
+lake,3,Rule-TV (no ML),0,8192,0,0.0
+lake,3,Rule-ctx (no ML),0,8192,0,0.0
+lake,4,KNN,0,8192,0,0.0
+lake,4,DT,0,8192,0,0.0
+lake,4,RF-6,0,8192,0,0.0
+lake,4,RF-10,0,8192,0,0.0
+lake,4,RF-10+AFW,0,8192,0,0.0
+lake,4,RF-11+ctx,0,8192,0,0.0
+lake,4,RF-10+AFW noise-aug,0,8192,0,0.0
+lake,4,RF-11+ctx noise-aug,0,8192,0,0.0
+lake,4,Rule-TV (no ML),0,8192,0,0.0
+lake,4,Rule-ctx (no ML),0,8192,0,0.0
