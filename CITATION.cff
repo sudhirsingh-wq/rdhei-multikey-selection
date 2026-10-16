@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Noise-Robust and Exactly Lossless Reversible Data Hiding in Encrypted Images via Scalable Multi-Key Selection"
+authors:
+  - family-names: Singh
+    given-names: Sudhir
+    affiliation: "Indira Gandhi Delhi Technical University for Women, Delhi, India"
+    email: sudhirsingh@igdtuw.ac.in
+  - family-names: Singh
+    given-names: Upasana
+    affiliation: "Aryabhatta College, University of Delhi, Delhi, India"
+    email: upasana@aryabhattacollege.ac.in
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/rdhei-multikey-selection"
+type: software
+preferred-citation:
+  type: article
+  title: "Noise-Robust and Exactly Lossless Reversible Data Hiding in Encrypted Images via Scalable Multi-Key Selection"
+  authors:
+    - family-names: Singh
+      given-names: Sudhir
+    - family-names: Singh
+      given-names: Upasana
+  journal: "Information Sciences"
+  status: submitted
+  year: 2026

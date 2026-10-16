@@ -1,0 +1,12 @@
+# Versions used for the results in the paper (Python 3.13). Other recent versions work; learned receivers may then
+# differ in the last digits because scikit-learn's tree construction is version dependent.
+numpy==2.1.3
+scipy==1.18.1
+pandas==2.2.3
+scikit-learn==1.6.1
+scikit-image==0.26.0
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+matplotlib==3.11.2
+cryptography==50.0.1
+reedsolo==1.7.0
